@@ -1,0 +1,6 @@
+thesis_env/
+runs/
+yolo11n.pt
+yolo11x.pt
+dataset/
+Basketball-Players-16/
